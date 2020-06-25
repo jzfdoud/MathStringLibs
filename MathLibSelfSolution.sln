@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathLibSelf", "MathLibSelf\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestMathLibSelf", "TestMathLibSelf\TestMathLibSelf.csproj", "{663063CC-C7E0-42F1-A5E2-11196E8E6E15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLib", "StringLib\StringLib.csproj", "{6BE1CA17-AF11-4487-B45D-A84314066A2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringLib", "StringLib\StringLib.csproj", "{6BE1CA17-AF11-4487-B45D-A84314066A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtensionMethod", "ExtensionMethod\MyExtensionMethod.csproj", "{4190BBEF-71B2-4C5B-ADDD-551370DA49D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{6BE1CA17-AF11-4487-B45D-A84314066A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE1CA17-AF11-4487-B45D-A84314066A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE1CA17-AF11-4487-B45D-A84314066A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4190BBEF-71B2-4C5B-ADDD-551370DA49D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4190BBEF-71B2-4C5B-ADDD-551370DA49D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4190BBEF-71B2-4C5B-ADDD-551370DA49D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4190BBEF-71B2-4C5B-ADDD-551370DA49D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

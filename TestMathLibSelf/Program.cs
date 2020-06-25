@@ -2,7 +2,7 @@
 
 namespace TestMathLibSelf
 {
-    class Program
+   public class Program
     {
         static void Main(string[] args)
         {
@@ -10,6 +10,13 @@ namespace TestMathLibSelf
             var ans = math.Cubed(2);
             var ans2 = math.Inverse(2);
             var ans3 = math.Remainder(97, 2);
+
+            //var ans4 = 37.EvalFunc();
+
+
+
+
+
 
         }
     }

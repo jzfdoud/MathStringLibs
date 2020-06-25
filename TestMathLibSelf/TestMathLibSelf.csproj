@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ExtensionMethod\MyExtensionMethod.csproj" />
     <ProjectReference Include="..\MathLibSelf\MathLibSelf.csproj" />
   </ItemGroup>
 

@@ -26,5 +26,6 @@ namespace MathLibSelf
             return a * a * a;
         }
 
+
     }
 }
